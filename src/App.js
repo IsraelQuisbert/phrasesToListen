@@ -7,6 +7,7 @@ function App() {
       <QuoteBox/>
     </div>
   );
+  //arreglado?
 }
 
 export default App;
