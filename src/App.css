@@ -46,7 +46,8 @@ button{
   border: none;
   border-radius: 5px;
   margin-left: 15px;
-  padding: 3px;
+  padding: 5px 15px;
+  color: white;
 }
 
 button:hover{
